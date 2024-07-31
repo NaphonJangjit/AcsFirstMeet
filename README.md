@@ -1,0 +1,2 @@
+# AcsFirstMeet
+Applied Computer Science
